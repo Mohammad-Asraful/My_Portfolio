@@ -14,7 +14,7 @@ const About = () => {
     <>
       <Navbar />
       <section>
-        <div className="container mx-auto">
+        <div className="container mx-auto py-10 px-4">
           <div>
             <Navbar toggleSidebar={toggleSidebar} />
             <Sidebar isOpen={isOpen} toggleSidebar={toggleSidebar} />
