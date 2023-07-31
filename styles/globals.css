@@ -4,7 +4,7 @@
 
 @layer components {
   .btn {
-    @apply bg-[#ff4041] text-white py-2 px-4 rounded inline-block mt-10 font-medium border border-[#ff4041] hover:bg-transparent hover:text-[#ff4041] transition duration-200;
+    @apply bg-[#ff4041] text-white py-2 px-[38px] rounded inline-block mt-10 font-medium border border-[#ff4041] hover:bg-transparent hover:text-[#ff4041] transition duration-200;
   }
 
   .inputStyle {

@@ -24,8 +24,8 @@ const Navbar = ({ toggleSidebar }) => {
             <Link className="hover:text-[#ff4041]" href="/projects">
               Projects
             </Link>
-            <Link className="hover:text-[#ff4041]" href="/blog">
-              Blog
+            <Link className="hover:text-[#ff4041]" href="/social">
+              Social Links
             </Link>
             <Link className="hover:text-[#ff4041]" href="/contact">
               Contact

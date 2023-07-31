@@ -1,6 +1,7 @@
 import React from "react";
 import Typewriter from "typewriter-effect";
 import Button from "./Button";
+import { HiDownload } from "react-icons/hi";
 
 const Hero = () => {
   return (
@@ -37,7 +38,17 @@ const Hero = () => {
                   In a professional context it often happens that private
                   clients corder a publication to be made.
                 </p>
-                <Button link="#" text="Learn More" />
+                {/* buttons start */}
+                <div>
+                  <Button link="/about" text="Learn More" />
+                  <a
+                    href="/Front-End Developer.pdf"
+                    className="w-40 mt-3 flex border border-[#ff4041] px-4 py-2 text-white hover:text-[#ff4041] rounded-[5px] items-center gap-2 bg-[#ff4041] hover:bg-transparent transition duration-200"
+                    download="/Front-End Developer.pdf">
+                    <HiDownload /> Download CV
+                  </a>
+                </div>
+                {/* buttons end */}
               </div>
               {/*  */}
             </div>

@@ -18,16 +18,16 @@ const Sidebar = ({ isOpen, toggleSidebar }) => {
         <Link className="hover:text-[#ff4041]" href="/">
           Home
         </Link>
-        <Link className="hover:text-[#ff4041]" href="/">
+        <Link className="hover:text-[#ff4041]" href="/about">
           About
         </Link>
         <Link className="hover:text-[#ff4041]" href="/projects">
           Projects
         </Link>
-        <Link className="hover:text-[#ff4041]" href="/">
-          Blogs
+        <Link className="hover:text-[#ff4041]" href="/social">
+          Social Links
         </Link>
-        <Link className="hover:text-[#ff4041]" href="/">
+        <Link className="hover:text-[#ff4041]" href="/contact">
           Contact
         </Link>
       </div>
