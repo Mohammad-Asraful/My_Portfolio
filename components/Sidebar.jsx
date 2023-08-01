@@ -14,7 +14,7 @@ const Sidebar = ({ isOpen, toggleSidebar }) => {
         <RiCloseFill />
       </div>
 
-      <div className="flex flex-col gap-4 text-[28px]">
+      <div className="flex flex-col gap-4 text-[28px] font-medium">
         <Link className="hover:text-[#ff4041]" href="/">
           Home
         </Link>

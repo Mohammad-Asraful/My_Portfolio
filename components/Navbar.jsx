@@ -14,7 +14,7 @@ const Navbar = ({ toggleSidebar }) => {
             <Link href="/">Asraful Alam</Link>
           </div>
           {/*  */}
-          <div className="hidden md:flex gap-6">
+          <div className="hidden md:flex gap-6 font-medium">
             <Link className="hover:text-[#ff4041]" href="/">
               Home
             </Link>

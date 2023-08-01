@@ -12,9 +12,11 @@ const Hero = () => {
             {/* hero texts starts */}
             <div className="max-w-[450px] text-white flex flex-col gap-12">
               <div>
-                <h1 className="text-5xl">I'm Asraful Alam</h1>
+                <h1 className="uppercase text-4xl font-bold text-[#ff4041]">
+                  I'm Asraful Alam
+                </h1>
                 {/* type writter start */}
-                <h4 className="text-2xl mt-3">
+                <h4 className="text-2xl font-semibold mt-3">
                   <Typewriter
                     options={{
                       strings: [
@@ -43,7 +45,7 @@ const Hero = () => {
                   <Button link="/about" text="Learn More" />
                   <a
                     href="/Front-End Developer.pdf"
-                    className="w-40 mt-3 flex border border-[#ff4041] px-4 py-2 text-white hover:text-[#ff4041] rounded-[5px] items-center gap-2 bg-[#ff4041] hover:bg-transparent transition duration-200"
+                    className="md:hidden w-40 mt-3 flex border border-[#ff4041] px-4 py-2 text-white hover:text-[#ff4041] rounded-[5px] items-center gap-2 bg-[#ff4041] hover:bg-transparent transition duration-200"
                     download="/Front-End Developer.pdf">
                     <HiDownload /> Download CV
                   </a>

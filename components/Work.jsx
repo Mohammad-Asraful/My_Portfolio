@@ -4,7 +4,7 @@ import Link from "next/link";
 
 import { BiLink } from "react-icons/bi";
 import { IoMdShareAlt } from "react-icons/io";
-import { AiOutlineSearch } from "react-icons/ai";
+import { AiOutlineGithub } from "react-icons/ai";
 
 const Work = () => {
   return (
@@ -26,18 +26,19 @@ const Work = () => {
                 title="Preview this site"
                 href="https://my-1st-template.netlify.app"
                 target="_blank"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <BiLink className="w-8 h-8" />
               </Link>
               <Link
                 href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <IoMdShareAlt className="w-8 h-8" />
               </Link>
               <Link
-                href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
-                <AiOutlineSearch className="w-8 h-8" />
+                href="https://github.com/Mohammad-Asraful/my-first-repository"
+                target="_blank"
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
+                <AiOutlineGithub className="w-8 h-8" />
               </Link>
             </div>
             <div className="w-[70%] absolute bottom-10 left-9 text-center bg-white bg-opacity-70 hidden rounded-lg">
@@ -56,18 +57,19 @@ const Work = () => {
                 title="Preview this site"
                 href="https://my-2nd-template.netlify.app"
                 target="_blank"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <BiLink className="w-8 h-8" />
               </Link>
               <Link
                 href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <IoMdShareAlt className="w-8 h-8" />
               </Link>
               <Link
-                href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
-                <AiOutlineSearch className="w-8 h-8" />
+                href="https://github.com/Mohammad-Asraful/my-blog"
+                target="_blank"
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
+                <AiOutlineGithub className="w-8 h-8" />
               </Link>
             </div>
             <div className="w-[70%] absolute bottom-10 left-9 text-center bg-white bg-opacity-70 hidden rounded-lg">
@@ -88,18 +90,19 @@ const Work = () => {
                 title="Preview this site"
                 href="https://my-3rd-template.netlify.app"
                 target="_blank"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <BiLink className="w-8 h-8" />
               </Link>
               <Link
                 href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <IoMdShareAlt className="w-8 h-8" />
               </Link>
               <Link
-                href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
-                <AiOutlineSearch className="w-8 h-8" />
+                href="https://github.com/Mohammad-Asraful/Portfolio-Template-Html-Css"
+                target="_blank"
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
+                <AiOutlineGithub className="w-8 h-8" />
               </Link>
             </div>
             <div className="w-[70%] absolute bottom-10 left-9 text-center bg-white bg-opacity-70 hidden rounded-lg">
@@ -120,18 +123,19 @@ const Work = () => {
                 title="Preview this site"
                 href="https://my-4th-template.netlify.app"
                 target="_blank"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <BiLink className="w-8 h-8" />
               </Link>
               <Link
                 href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <IoMdShareAlt className="w-8 h-8" />
               </Link>
               <Link
-                href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
-                <AiOutlineSearch className="w-8 h-8" />
+                href="https://github.com/Mohammad-Asraful/My-4th-Template"
+                target="_blank"
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
+                <AiOutlineGithub className="w-8 h-8" />
               </Link>
             </div>
             <div className="w-[70%] absolute bottom-10 left-9 text-center bg-white bg-opacity-70 hidden rounded-lg">
@@ -150,18 +154,19 @@ const Work = () => {
                 title="Preview this site"
                 href="https://react-tailwind-sass-landing-page.netlify.app/"
                 target="_blank"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <BiLink className="w-8 h-8" />
               </Link>
               <Link
                 href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <IoMdShareAlt className="w-8 h-8" />
               </Link>
               <Link
-                href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
-                <AiOutlineSearch className="w-8 h-8" />
+                href="https://github.com/Mohammad-Asraful/Landing-page-design-with-tailwind"
+                target="_blank"
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
+                <AiOutlineGithub className="w-8 h-8" />
               </Link>
             </div>
             <div className="w-[70%] absolute bottom-10 left-9 text-center bg-white bg-opacity-70 hidden rounded-lg">
@@ -180,18 +185,19 @@ const Work = () => {
                 title="Preview this site"
                 href="https://react-tailwind-darkmode-landing-page.netlify.app"
                 target="_blank"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <BiLink className="w-8 h-8" />
               </Link>
               <Link
                 href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <IoMdShareAlt className="w-8 h-8" />
               </Link>
               <Link
-                href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
-                <AiOutlineSearch className="w-8 h-8" />
+                href="https://github.com/Mohammad-Asraful/lm_project_react_landingPage_with_responsive_tailwind_dark_mode"
+                target="_blank"
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
+                <AiOutlineGithub className="w-8 h-8" />
               </Link>
             </div>
             <div className="w-[70%] absolute bottom-10 left-9 text-center bg-white bg-opacity-70 hidden rounded-lg">
@@ -212,18 +218,19 @@ const Work = () => {
                 title="Preview this site"
                 href="https://web-code-task.netlify.app"
                 target="_blank"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <BiLink className="w-8 h-8" />
               </Link>
               <Link
                 href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <IoMdShareAlt className="w-8 h-8" />
               </Link>
               <Link
-                href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
-                <AiOutlineSearch className="w-8 h-8" />
+                href="https://github.com/Mohammad-Asraful/WebCode_Task"
+                target="_blank"
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
+                <AiOutlineGithub className="w-8 h-8" />
               </Link>
             </div>
             <div className="w-[70%] absolute bottom-10 left-9 text-center bg-white bg-opacity-70 hidden rounded-lg">
@@ -242,18 +249,19 @@ const Work = () => {
                 title="Preview this site"
                 href="https://oopen-weather-api.netlify.app/"
                 target="_blank"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <BiLink className="w-8 h-8" />
               </Link>
               <Link
                 href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <IoMdShareAlt className="w-8 h-8" />
               </Link>
               <Link
-                href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
-                <AiOutlineSearch className="w-8 h-8" />
+                href="https://github.com/Mohammad-Asraful/LearnReact-20-OpenWeatherApi"
+                target="_blank"
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
+                <AiOutlineGithub className="w-8 h-8" />
               </Link>
             </div>
             <div className="w-[70%] absolute bottom-10 left-9 text-center bg-white bg-opacity-70 hidden rounded-lg">
@@ -272,18 +280,19 @@ const Work = () => {
                 title="Preview this site"
                 href="https://clickup-section-project.netlify.app/"
                 target="_blank"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <BiLink className="w-8 h-8" />
               </Link>
               <Link
                 href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
                 <IoMdShareAlt className="w-8 h-8" />
               </Link>
               <Link
-                href="#"
-                className="flex items-center justify-center bg-[#65eb7b] cursor-pointer w-full text-black shadow-md border border-solid border-[#049a1d] hover:bg-white">
-                <AiOutlineSearch className="w-8 h-8" />
+                href="https://github.com/Mohammad-Asraful/ClickUp_Section_project"
+                target="_blank"
+                className="flex items-center justify-center bg-[#ff4041] cursor-pointer w-full text-black shadow-md border border-solid border-[#ff4048] hover:bg-white">
+                <AiOutlineGithub className="w-8 h-8" />
               </Link>
             </div>
             <div className="w-[70%] absolute bottom-10 left-9 text-center bg-white bg-opacity-70 hidden rounded-lg">

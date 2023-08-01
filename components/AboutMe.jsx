@@ -21,7 +21,7 @@ const AboutMe = () => {
           {/* about heading end */}
 
           {/*  */}
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-[60px]">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-[40px]">
             {/* about image start */}
             <div>
               <img
@@ -35,7 +35,7 @@ const AboutMe = () => {
             {/*  */}
             <div>
               {/* icons div starts */}
-              <div className="flex items-center justify-between w-[340px]">
+              <div className="flex items-center justify-between w-[360px]">
                 {/* icons starts */}
                 <div className="flex flex-col gap-6">
                   {/* 1 */}
@@ -92,7 +92,7 @@ const AboutMe = () => {
                 <div className="flex flex-col gap-6 text-gray-600">
                   <div>25 Years</div>
                   <div>CSE in Engineering (completed)</div>
-                  <div>www.dumy.com</div>
+                  <div>https://asraful-portfolio.vercel.app/</div>
                   <div>01709299377</div>
                   <div>Reading, Coding, Researching</div>
                   <div>Lakshmipur, Lakshmipur-3700</div>
