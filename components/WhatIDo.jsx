@@ -25,8 +25,10 @@ const WhatIDo = () => {
             <h2 className="font-medium text-xl">Web Design</h2>
 
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit
-              voluptatibus sed assumenda dolorem blanditiis repellat
+              I created some templates using HTML, CSS, Sass, Tailwind, and did
+              responsive design with them. Like landing page design, login page,
+              registration page, portfolio design, blog site, normal template
+              etc.
             </p>
           </div>
           {/* card-2 */}
@@ -38,8 +40,10 @@ const WhatIDo = () => {
             <h2 className="font-medium text-xl">Web Development</h2>
 
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit
-              voluptatibus sed assumenda dolorem blanditiis repellat
+              I was creating tailwind landing page with dark mood via react.js /
+              next.js. And used react hook form and yup form validation on some
+              login page and registration page. I made a weather app with React
+              through API.
             </p>
           </div>
           {/* card-3 */}
@@ -51,8 +55,8 @@ const WhatIDo = () => {
             <h2 className="font-medium text-xl">Responsive Design</h2>
 
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit
-              voluptatibus sed assumenda dolorem blanditiis repellat
+              I made some web sites responsive with vanilla css media query and
+              tailwind css, like landing page, portfolio site etc.
             </p>
           </div>
           {/* card-4 */}
@@ -64,8 +68,11 @@ const WhatIDo = () => {
             <h2 className="font-medium text-xl">Front-End Development</h2>
 
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit
-              voluptatibus sed assumenda dolorem blanditiis repellat
+              Frontend development is what is seen on the front of a website, it
+              gives me different pleasure, so frontend design and development is
+              my favorite, I use HTML, Vanilla CSS, Sass, Tailwind CSS,
+              Bootstrap, JavaScript Basic, React.JS, Next.JS etc. I like to do
+              these things.
             </p>
           </div>
           {/* card-5 */}
@@ -77,8 +84,10 @@ const WhatIDo = () => {
             <h2 className="font-medium text-xl">React.js Developer</h2>
 
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit
-              voluptatibus sed assumenda dolorem blanditiis repellat
+              react.js is a JavaScript library. I created a few pages with it
+              and created a weather app with an api fetch. Through this I was
+              creating clickup section, login - registration form with form
+              validation. etc.
             </p>
           </div>
           {/* card-6 */}
@@ -90,8 +99,9 @@ const WhatIDo = () => {
             <h2 className="font-medium text-xl">Next.js Developer</h2>
 
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit
-              voluptatibus sed assumenda dolorem blanditiis repellat
+              next.js is a JavaScript framework. I made a few pages with it.
+              Through this I was building my portfolio, converting a graphic
+              designer's website from HTML, CSS to Next.js and Tailwind. etc.
             </p>
           </div>
         </div>

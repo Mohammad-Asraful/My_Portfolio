@@ -13,7 +13,7 @@ import { TbAbc } from "react-icons/tb";
 
 const AboutMe = () => {
   return (
-    <section>
+    <section className="bg-[#fcf2e8]">
       <div className="container mx-auto py-10 px-4">
         <div>
           {/* about heading start */}
@@ -25,7 +25,7 @@ const AboutMe = () => {
             {/* about image start */}
             <div>
               <img
-                className="w-[400px]"
+                className="w-[400px] shadow-2xl"
                 src="/aboutme.png"
                 alt="about_me_image"
               />
@@ -41,7 +41,7 @@ const AboutMe = () => {
                   {/* 1 */}
                   <div className="flex gap-4 items-center font-medium">
                     <AiOutlineGift className="text-[#ff4041] text-[22px]" />
-                    Age
+                    Name
                   </div>
                   {/* 2 */}
                   <div className="flex gap-4 items-center font-medium">
@@ -90,9 +90,11 @@ const AboutMe = () => {
                 {/* colon div end */}
 
                 <div className="flex flex-col gap-6 text-gray-600">
-                  <div>25 Years</div>
+                  <div>Mohammad Asraful Alam</div>
                   <div>CSE in Engineering (completed)</div>
-                  <div>https://asraful-portfolio.vercel.app/</div>
+                  <div className="w-max">
+                    https://asraful-portfolio.vercel.app/
+                  </div>
                   <div>01709299377</div>
                   <div>Reading, Coding, Researching</div>
                   <div>Lakshmipur, Lakshmipur-3700</div>

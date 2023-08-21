@@ -9,10 +9,12 @@ const Skills = () => {
 
         {/* Skills text start */}
         <p className="text-gray-600 -mt-10 mb-10">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat
-          eligendi pariatur id laudantium deleniti iste nesciunt ab, dolor earum
-          commodi omnis possimus exercitationem harum ducimus consequuntur
-          itaque voluptatum quod modi?
+          It is impossible to say that i know anything in the world of
+          programming completely, because there are new updates every day. But I
+          have good knowledge of the following programming languages and their
+          libraries and freameworks, along with good knowledge of vanilla CSS,
+          Tailwind CSS and a basic understanding of Bootsrap to enhance the
+          beauty of a website.
         </p>
         {/* Skills text end */}
 
@@ -65,6 +67,14 @@ const Skills = () => {
             <p>Tailwind Css</p>
             <div className="relative bg-gray-400 h-1 mt-2">
               <div className="bg-[#ff4041] absolute h-1 w-[85%]"></div>
+            </div>
+          </div>
+          {/*  */}
+          {/* Skill-7 */}
+          <div>
+            <p>SASS</p>
+            <div className="relative bg-gray-400 h-1 mt-2">
+              <div className="bg-[#ff4041] absolute h-1 w-[65%]"></div>
             </div>
           </div>
           {/*  */}

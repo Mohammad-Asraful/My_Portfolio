@@ -296,7 +296,7 @@ const Work = () => {
               </Link>
             </div>
             <div className="w-[70%] absolute bottom-10 left-9 text-center bg-white bg-opacity-70 hidden rounded-lg">
-              <h1 className="text-xl font-bold">Weather app from fake API</h1>
+              <h1 className="text-xl font-bold">Click up sections</h1>
             </div>
           </div>
           {/*  */}

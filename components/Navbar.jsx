@@ -3,14 +3,24 @@ import Link from "next/link";
 
 import { HiDownload } from "react-icons/hi";
 import { FiMenu } from "react-icons/fi";
+import Head from "next/head";
 
 const Navbar = ({ toggleSidebar }) => {
   return (
     <>
+      <Head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap"
+          rel="stylesheet"
+        />
+      </Head>
+
       <section className="bg-white fixed top-0 w-full z-10">
         <div className="container mx-auto flex justify-between items-center p-4 border-b-2">
           {/*  */}
-          <div className="text-2xl font-[algerian] uppercase">
+          <div className="tilt_prism_font text-2xl uppercase font-bold">
             <Link href="/">Asraful Alam</Link>
           </div>
           {/*  */}
